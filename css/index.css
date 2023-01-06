@@ -1347,7 +1347,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #f28e16;
+  --btn-hover-color: #ed556a;
   --btn-color: #fff;
   --btn-bg: #eea2a4;
   --text-bg-hover: rgba(238,162,164,0.7);
@@ -1361,7 +1361,7 @@ canvas:not(#ribbon-canvas),
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #f28e16;
+  --pseudo-hover: #ed556a;
   --headline-presudo: #a0a0a0;
   --scrollbar-color: #eea2a4;
 }
@@ -4454,7 +4454,7 @@ h1.page-title + .tag-cloud-list {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: #eea2a4;
-  --waline-active-color: #f28e16;
+  --waline-active-color: #ed556a;
 }
 #waline-wrap .wl-comment-actions > button:not(last-child) {
   padding-right: 4px;
