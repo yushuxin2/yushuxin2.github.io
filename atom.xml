@@ -6,7 +6,7 @@
   <link href="https://yushuxin2.github.io/atom.xml" rel="self"/>
   
   <link href="https://yushuxin2.github.io/"/>
-  <updated>2023-02-25T10:07:32.366Z</updated>
+  <updated>2023-01-21T16:00:00.000Z</updated>
   <id>https://yushuxin2.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好 世界！</title>
-    <link href="https://yushuxin2.github.io/2023/02/hello-world/"/>
-    <id>https://yushuxin2.github.io/2023/02/hello-world/</id>
-    <published>2023-02-25T10:07:32.366Z</published>
-    <updated>2023-02-25T10:07:32.366Z</updated>
+    <title>新年快乐！</title>
+    <link href="https://yushuxin2.github.io/2023/01/happy-new-year/"/>
+    <id>https://yushuxin2.github.io/2023/01/happy-new-year/</id>
+    <published>2023-01-21T16:00:00.000Z</published>
+    <updated>2023-01-21T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章. 查阅 <a href="https://hexo.io/docs/">帮助文档</a> 来获取更多信息. 如果你在使用Hexo时遇到任何问题, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">疑难解答</a>中找到答案， 或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问我.</p><h2 id="快速入门"><a href="#快速入门" class="headerlink" title="快速入门"></a>快速入门</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="运行服务"><a href="#运行服务" class="headerlink" title="运行服务"></a>运行服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="新年快乐！"><a href="#新年快乐！" class="headerlink" title="新年快乐！"></a>新年快乐！</h1><h2 id="大家新的一年也要开开心心"><a href="#大家新的一年也要开开心心" class="headerlink" title="大家新的一年也要开开心心~"></a>大家新的一年也要开开心心~</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! 这是你的第一篇文章. 查阅 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;帮助文档&lt;/a&gt; 来获取更多信息. 如果你在使用Hexo时遇到任何问题, 你可以在 &lt;a href</summary>
+    <summary type="html">&lt;h1 id=&quot;新年快乐！&quot;&gt;&lt;a href=&quot;#新年快乐！&quot; class=&quot;headerlink&quot; title=&quot;新年快乐！&quot;&gt;&lt;/a&gt;新年快乐！&lt;/h1&gt;&lt;h2 id=&quot;大家新的一年也要开开心心&quot;&gt;&lt;a href=&quot;#大家新的一年也要开开心心&quot; class=&quot;headerli</summary>
       
     
     
@@ -37,18 +37,38 @@
   </entry>
   
   <entry>
-    <title>新年快乐！</title>
-    <link href="https://yushuxin2.github.io/2023/01/happy-new-year/"/>
-    <id>https://yushuxin2.github.io/2023/01/happy-new-year/</id>
-    <published>2023-01-21T16:00:00.000Z</published>
-    <updated>2023-02-25T09:55:16.148Z</updated>
+    <title>文章报头配置</title>
+    <link href="https://yushuxin2.github.io/2023/01/Front-matter/"/>
+    <id>https://yushuxin2.github.io/2023/01/Front-matter/</id>
+    <published>2023-01-05T10:12:12.000Z</published>
+    <updated>2023-01-05T10:12:12.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="新年快乐！"><a href="#新年快乐！" class="headerlink" title="新年快乐！"></a>新年快乐！</h1><h2 id="大家新的一年也要开开心心"><a href="#大家新的一年也要开开心心" class="headerlink" title="大家新的一年也要开开心心~"></a>大家新的一年也要开开心心~</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="Front-matter"><a href="#Front-matter" class="headerlink" title="Front-matter"></a>Front-matter</h1><p>Front-matter 是 markdown 文件最上方以 — 分隔的区域，用于指定个别档案的变数。</p><ul><li>Page Front-matter 用于页面配置</li><li>Post Front-matter 用于文章页配置</li></ul><p>如果标注可选的参数，可根据自己需要添加，不用全部都写在markdown里</p><h2 id="Page-Front-matter"><a href="#Page-Front-matter" class="headerlink" title="Page Front-matter"></a>Page Front-matter</h2><hr><h2 id="title-date-updated-type-comments-description-keywords-top-img-mathjax-katex-aside-aplayer-highlight-shrink"><a href="#title-date-updated-type-comments-description-keywords-top-img-mathjax-katex-aside-aplayer-highlight-shrink" class="headerlink" title="title:date:updated:type:comments:description:keywords:top_img:mathjax:katex:aside:aplayer:highlight_shrink:"></a>title:<br>date:<br>updated:<br>type:<br>comments:<br>description:<br>keywords:<br>top_img:<br>mathjax:<br>katex:<br>aside:<br>aplayer:<br>highlight_shrink:</h2><p>写法解释<br>title【必需】页面标题<br>date【必需】页面创建日期<br>type【必需】标签、分类和友情链接三个页面需要配置<br>updated【可选】页面更新日期<br>description【可选】页面描述<br>keywords【可选】页面关键字<br>comments【可选】显示页面评论模块(默认 true)<br>top_img【可选】页面顶部图片<br>mathjax【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)<br>katex【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)<br>aside【可选】显示侧边栏 (默认 true)<br>aplayer【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置<br>highlight_shrink【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中highlight_shrink的配置)</p><h2 id="Post-Front-matter"><a href="#Post-Front-matter" class="headerlink" title="Post Front-matter"></a>Post Front-matter</h2><hr><h2 id="title-date-updated-tags-categories-keywords-description-top-img-comments-cover-toc-toc-number-toc-style-simple-copyright-copyright-author-copyright-author-href-copyright-url-copyright-info-mathjax-katex-aplayer-highlight-shrink-aside"><a href="#title-date-updated-tags-categories-keywords-description-top-img-comments-cover-toc-toc-number-toc-style-simple-copyright-copyright-author-copyright-author-href-copyright-url-copyright-info-mathjax-katex-aplayer-highlight-shrink-aside" class="headerlink" title="title:date:updated:tags:categories:keywords:description:top_img:comments:cover:toc:toc_number:toc_style_simple:copyright:copyright_author:copyright_author_href:copyright_url:copyright_info:mathjax:katex:aplayer:highlight_shrink:aside:"></a>title:<br>date:<br>updated:<br>tags:<br>categories:<br>keywords:<br>description:<br>top_img:<br>comments:<br>cover:<br>toc:<br>toc_number:<br>toc_style_simple:<br>copyright:<br>copyright_author:<br>copyright_author_href:<br>copyright_url:<br>copyright_info:<br>mathjax:<br>katex:<br>aplayer:<br>highlight_shrink:<br>aside:</h2><p>写法解释<br>title【必需】文章标题<br>date【必需】文章创建日期<br>updated【可选】文章更新日期<br>tags【可选】文章标签<br>categories【可选】文章分类<br>keywords【可选】文章关键字<br>description【可选】文章描述<br>top_img【可选】文章顶部图片<br>cover【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false&#x2F;图片地址&#x2F;留空)<br>comments【可选】显示文章评论模块(默认 true)<br>toc【可选】显示文章TOC(默认为设置中toc的enable配置)<br>toc_number【可选】显示toc_number(默认为设置中toc的number配置)<br>toc_style_simple【可选】显示 toc 简洁模式<br>copyright【可选】显示文章版权模块(默认为设置中post_copyright的enable配置)<br>copyright_author【可选】文章版权模块的文章作者<br>copyright_author_href【可选】文章版权模块的文章作者链接<br>copyright_url【可选】文章版权模块的文章连结链接<br>copyright_info【可选】文章版权模块的版权声明文字<br>mathjax【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)<br>katex【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)<br>aplayer【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置<br>highlight_shrink【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中highlight_shrink的配置)<br>aside【可选】显示侧边栏 (默认 true)</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;新年快乐！&quot;&gt;&lt;a href=&quot;#新年快乐！&quot; class=&quot;headerlink&quot; title=&quot;新年快乐！&quot;&gt;&lt;/a&gt;新年快乐！&lt;/h1&gt;&lt;h2 id=&quot;大家新的一年也要开开心心&quot;&gt;&lt;a href=&quot;#大家新的一年也要开开心心&quot; class=&quot;headerli</summary>
+    <summary type="html">&lt;h1 id=&quot;Front-matter&quot;&gt;&lt;a href=&quot;#Front-matter&quot; class=&quot;headerlink&quot; title=&quot;Front-matter&quot;&gt;&lt;/a&gt;Front-matter&lt;/h1&gt;&lt;p&gt;Front-matter 是 markdown 文件最上方以</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好 世界！</title>
+    <link href="https://yushuxin2.github.io/2023/01/hello-world/"/>
+    <id>https://yushuxin2.github.io/2023/01/hello-world/</id>
+    <published>2022-12-31T16:00:00.000Z</published>
+    <updated>2022-12-31T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章. 查阅 <a href="https://hexo.io/docs/">帮助文档</a> 来获取更多信息. 如果你在使用Hexo时遇到任何问题, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">疑难解答</a>中找到答案， 或者你可以在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问我.</p><h2 id="快速入门"><a href="#快速入门" class="headerlink" title="快速入门"></a>快速入门</h2><h3 id="创建新帖子"><a href="#创建新帖子" class="headerlink" title="创建新帖子"></a>创建新帖子</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="运行服务"><a href="#运行服务" class="headerlink" title="运行服务"></a>运行服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! 这是你的第一篇文章. 查阅 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;帮助文档&lt;/a&gt; 来获取更多信息. 如果你在使用Hexo时遇到任何问题, 你可以在 &lt;a href</summary>
       
     
     
