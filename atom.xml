@@ -6,7 +6,7 @@
   <link href="https://yushuxin2.github.io/atom.xml" rel="self"/>
   
   <link href="https://yushuxin2.github.io/"/>
-  <updated>2023-01-05T02:32:17.385Z</updated>
+  <updated>2023-02-25T09:47:46.143Z</updated>
   <id>https://yushuxin2.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年快乐！</title>
+    <link href="https://yushuxin2.github.io/2023/01/year/"/>
+    <id>https://yushuxin2.github.io/2023/01/year/</id>
+    <published>2023-01-21T16:00:00.000Z</published>
+    <updated>2023-02-25T09:47:46.143Z</updated>
+    
+    <content type="html"><![CDATA[<p>#新年快乐！</p><p>##大家新的一年也要开开心心~</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#新年快乐！&lt;/p&gt;
+&lt;p&gt;##大家新的一年也要开开心心~&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
